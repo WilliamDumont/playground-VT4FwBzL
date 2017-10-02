@@ -1,5 +1,4 @@
-title: Simple Python template
-
+title: Simple Python template english
 plan:
-  - title: Python Snippet
-    statement: statement.md
+- title: Python Snippet
+  statement: statement.md
